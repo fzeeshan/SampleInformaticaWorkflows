@@ -8,3 +8,4 @@ Changelog: <br>
 5) Sample change for tag5
 6) Sample change for tag6
 7) Sample change for tag7
+8) Sample change for tag8
